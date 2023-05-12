@@ -35,7 +35,7 @@ const Home = () => {
         ...product
       }
     ]);
-   
+    // console.log(basket)
   };
   return (
     <>
